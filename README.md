@@ -6,9 +6,9 @@ C Language Used
 
 Content
 
-  * C Operators.
-  * C Selection Statements.
-  * C Repetition Statements.
-  * C Functions.
-  * C Arrays.
-  * C File Handling.
+  * C Operators
+  * C Selection Statements
+  * C Repetition Statements
+  * C Functions
+  * C Arrays
+  * C File Handling
