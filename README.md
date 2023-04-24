@@ -6,7 +6,7 @@ C Language Used
 
 Content
 
-  * C Operators
+  * C Operators.
   * C Selection Statements
   * C Repetition Statements
   * C Functions
