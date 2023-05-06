@@ -10,5 +10,5 @@ Content
   * C Selection Statements
   * C Repetition Statements
   * C Functions
-  * C Arrays
+  * C Arrays.
   * C File Handling
